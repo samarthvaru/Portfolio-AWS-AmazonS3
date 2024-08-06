@@ -8,7 +8,7 @@ This project demonstrates how to host static website using AWS services. The goa
 <img src="architecture.png" alt="drawing" width="500"/>
 
 ## Screenshot
-<img src="ss5.png" alt="drawing" width="500"/>
+<img src="ss.png" alt="drawing" width="500"/>
 
 ## Prerequisites
 - AWS Account
