@@ -5,7 +5,10 @@ Static website hosting using Amazon S3.
 This project demonstrates how to host static website using AWS services. The goal is to host the portfolio in Amazon S3.
 
 ## Architecture
-<img src="arrchitecture.png" alt="drawing" width="500"/>
+<img src="architecture.png" alt="drawing" width="500"/>
+
+## Screenshot
+<img src="ss5.png" alt="drawing" width="500"/>
 
 ## Prerequisites
 - AWS Account
